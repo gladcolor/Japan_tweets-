@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+cd E:\Research\Japan_tweets
+conda activate simple_trans_env2
+E:
+jupyter lab
+
+
+
+=======
+cd E:\Research\Japan_tweets
+conda activate simple_trans_env2
+E:
+jupyter lab
+
+
+
+>>>>>>> 0c3ae33998bd1a13a62a91c2535caf1a033e5250
+git push origin master
